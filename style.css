@@ -51,7 +51,7 @@ h1{
 }
 
 .navbar {
-    padding: 2rem;
+    padding: 0.5rem;
     background-color: #f5f6f7;
 }
 .navbar-collapse {
@@ -67,8 +67,8 @@ h1{
     text-align: center;
 }
 .logo-hero{
-    width: 100px;
-    height: 100px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     margin: 20px ;
 }
@@ -218,8 +218,8 @@ h1{
 }
 
 .testimonio-imagen{
-    width: 150px;  
-    height: 200px;
+    width: 250px;  
+    height: 300px;
     margin: 10px 10px 20px 10px;
     background-color: blue;
 }
